@@ -45,10 +45,10 @@ after following installed, make sure you have [OpenWeatherMap](https://openweath
    ```
 5. **Add the following environment variables to the .env.local file:**
 
-NEXT_PUBLIC_OPENWEATHERMAP_API_KEY=[your-api-key]
-NEXT_PUBLIC_WEATHER_BASE_URL=[weather-forecast]
-NEXT_PUBLIC_CITY_BASE_URL=[geo]
-NEXT_PUBLIC_WEATHER_ICON_URL=[image-url]
+- NEXT_PUBLIC_OPENWEATHERMAP_API_KEY=[your-api-key]
+- NEXT_PUBLIC_WEATHER_BASE_URL=[weather-forecast]
+- NEXT_PUBLIC_CITY_BASE_URL=[geo]
+- NEXT_PUBLIC_WEATHER_ICON_URL=[image-url]
 
 Replace the placeholders with the appropriate values:
 
