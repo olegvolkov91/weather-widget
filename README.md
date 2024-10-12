@@ -53,8 +53,11 @@ after following installed, make sure you have [OpenWeatherMap](https://openweath
 Replace the placeholders with the appropriate values:
 
 [your-api-key]: Your unique API key obtained from OpenWeatherMap.
+
 [weather-forecast]: The base URL for weather forecast API (e.g., https://api.openweathermap.org/data/2.5/forecast).
+
 [geo]: The base URL for the geo API (e.g., http://api.openweathermap.org/geo/1.0/direct).
+
 [image-url]: The URL for weather icons (e.g., https://openweathermap.org/img).
 
 ## Running the Project
